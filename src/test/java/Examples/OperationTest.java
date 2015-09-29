@@ -17,7 +17,7 @@ public class OperationTest {
 		int b = 5;
 		int expectedResult = Operation.addition(a,b);
 		
-		assertEquals(9,expectedResult);
+		assertEquals(8,expectedResult);
 		
 	}
 	
